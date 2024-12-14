@@ -1,10 +1,6 @@
-i am sorry but my code has an issue.
-my house got struck by lightning so i cant fix it until 19th sep 2023(not actually but still 19th)
+Easy to use
+1. Enter message you want to spam and time you want it to wait before sending the message again (sleep time)
+2. You have ten seconds to go to the ap / website and start the typing
+3. When its done it will tell you that u can return to the spammer app
 
-
-
-ze isssue:
-the sleep time is also the same varialble as starting pause so it messed up so dont use
-
-edit 15/9/23 -> sorry but not on 19th my pc still broke
-
+USE AT YOUR OWN RISK: ITS JUST FOR FUN, NOT ACTUALLY SPAMMING SOMEONE
